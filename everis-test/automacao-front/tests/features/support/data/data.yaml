@@ -1,0 +1,10 @@
+login:
+  valido:
+    email: 'email@email.email'
+    password: 'tester123'
+  invalido:
+    email: 'xyz@email.com'
+    password: 'xyz'
+
+cart:
+  total_price: '$18.51'
